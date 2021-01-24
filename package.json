@@ -1,0 +1,15 @@
+{
+  "name": "refinitiv-s2-q3",
+  "version": "1.0.0",
+  "description": "Refinitiv Pretest Section 2 Question 3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Passakorn Hengprasert",
+  "license": "ISC",
+  "dependencies": {
+    "html-table-to-json": "^1.0.0",
+    "node-fetch": "^2.6.1"
+  }
+}
